@@ -20,7 +20,7 @@
     <!-- koppeling naar CSS bestand -->
     <link rel="stylesheet" type="text/css" href="../css/styles.css">
 
-    <title></title>
+    <title>opdracht 2.1</title>
     <!-- einde head-->
 </head>
 <title>
