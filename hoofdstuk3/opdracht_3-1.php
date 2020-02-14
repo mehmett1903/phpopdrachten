@@ -19,7 +19,7 @@ de Koninklijke Vereniging De Friesche Elf Steden. Leeuwarden,
 de hoofdstad van Friesland, is start- en aankomstplaats. De
 Elfstedentocht is inmiddels 15 maal verreden en werd voor het
 eerst in 1909 gereden en wordt maximaal 1 keer per winter
-gehouden.";
+gehouden." ;
 
 ?>
 
