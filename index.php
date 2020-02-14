@@ -18,7 +18,7 @@
         <!-- keywords van de website -->
         <meta charset="utf-8">
         <!-- koppeling naar CSS bestand -->
-        <link rel="stylesheet" type="text/css" href="css/styles.css">
+        <link rel="stylesheet" type="text/css" href="css/styles.css"/>
 
         <title></title>
         <!-- einde head-->
@@ -72,7 +72,7 @@
                         <li>
                             <a href="hoofdstuk4/opdracht_4-4.php">Opdracht 4.4</a>
                         </li>
-
+                    </ul>
                         <li>Hoofdstuk 5
                             <ul>
                                 <li>
@@ -87,7 +87,7 @@
                                 <li>
                                     <a href="hoofdstuk5/opdracht_5-4.php">Opdracht 5.4</a>
                                 </li>
-    </ul>
+                            </ul>
 </aside>
 <main id="wrapper">
     <h2>Uitwerkingen</h2>

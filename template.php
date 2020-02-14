@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 <?php
 /**
- * User: Naam
+ * User: Mehmet Capaz
  * Date: Date
- * Time: 12:06 PM
- * File: index.php
+ * Time: PM
+ * File: .php
  */
 ?>
 <html lang="en">
@@ -18,7 +18,7 @@
     <!-- keywords van de website -->
     <meta charset="utf-8">
     <!-- koppeling naar CSS bestand -->
-    <link rel="stylesheet" type="text/css" href="../css/styles.css">
+    <link rel="stylesheet" type="text/css" href="css/styles.css">
 
     <title>opdracht 2.1</title>
     <!-- einde head-->
@@ -29,7 +29,7 @@
 <body>
 
 <p>
-    <?php echo "<p>" . "Hello World!" . "</p>"; ?>
+    <?php echo "Hello World!"; ?>
 </p>
 
 </body>

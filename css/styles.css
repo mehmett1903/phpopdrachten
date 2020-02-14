@@ -1,0 +1,28 @@
+header
+{
+    height: 100px;
+    width: 1527px;
+    background-color: aliceblue;
+}
+
+h1
+{
+    float: right;
+}
+
+aside
+{
+    width: 300px;
+    height: 610px;
+    background-color: navajowhite;
+}
+
+main
+{
+    position: absolute;
+    height: 610px;
+    width: 1180px;
+    top: 127px;
+    left: 350px;
+    background-color: white;
+}

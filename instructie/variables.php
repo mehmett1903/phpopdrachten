@@ -29,8 +29,25 @@
 <body>
 
 <p>
-    <?php echo "<p>" . "Hello World!" . "</p>"; ?>
+    <?php echo "Hello World!"; ?>
 </p>
+<?php
+// string
+    $car = "audi";
 
+// boolean
+    $licence = true;
+
+// integer
+    $age = 24;
+
+// float
+    $price = 19.95;
+
+ echo $car . "heeft een prijs van" . $price;
+
+ echo "<p class = 'red'"
+?>
 </body>
 </html>
+
